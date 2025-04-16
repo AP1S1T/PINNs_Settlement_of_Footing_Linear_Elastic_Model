@@ -12,6 +12,7 @@ This repository contains a Physics-Informed Neural Networks (PINNs) implementati
 ## Model Details
 - **Physics equations**: 2D linear elastic
 - **Strong form PDE**: Equilibrium equation
+- **Optimizer** : Adam
 - **Material parameters**
   - **Young's Modulus (E)** : 15000 kN/m² to compare with FEM from Plaxis2d
   - **Poisson's Ratio (ν)** : 0.3
