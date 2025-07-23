@@ -22,9 +22,6 @@ This repository contains a Physics-Informed Neural Networks (PINNs) implementati
   ![Data sampling](Data-sampling.png)
 
 ## Results
-
--  **Magnitude of displacement**
-  ![Magnitude of displacement](magnitude_contour_heatmap.png)
 -  **All results**
   ![All results](results_plots.png)
 
