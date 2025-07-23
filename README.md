@@ -29,7 +29,7 @@ This repository contains a Physics-Informed Neural Networks (PINNs) implementati
 -  Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations. Journal of Computational Physics, 378, 686–707.
 
 ## 👨‍💻 Author
--  **Apisit Robjanghvad** : Undergraduate Student, Department of Civil Engineering **King Mongkut's University of Technology Thonburi (KMUTT)**
+-  **Apisit Robjanghvad** : M.eng (Geotechnical engineering student), Department of Civil Engineering **King Mongkut's University of Technology Thonburi (KMUTT)**
 Email: [apisit65a@gmail.com] 
 
 ## Installation
