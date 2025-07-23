@@ -5,8 +5,8 @@ This repository contains a Physics-Informed Neural Networks (PINNs) implementati
 ## Features
 
 - Solve 2D elasticity PDEs using PINNs
-- Apply gravity and footing load
-- Plot displacement heatmaps: ux, uy, and total |u|
+- Apply external load
+- Plot displacement heatmaps: ux, uy, total |u|, and stress field
 - GPU-accelerated (CUDA)
 
 ## Model Details
