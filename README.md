@@ -12,6 +12,21 @@ This repository contains a Physics-Informed Neural Networks (PINNs) implementati
 ## Model Details
 - **Physics equations**: 2D linear elastic
 - **Strong form PDE**: Equilibrium equation
+## Equilibrium Equation
+The equilibrium equations in linear solid mechanics are given by:
+
+$$
+\frac{\partial \sigma_{xx}}{\partial x} + \frac{\partial \sigma_{xy}}{\partial y} + f_x = 0
+$$
+
+$$
+\frac{\partial \sigma_{yx}}{\partial x} + \frac{\partial \sigma_{yy}}{\partial y} + f_y = 0
+$$
+
+Assuming no body force, the equations simplify to:
+
+
+---
 - **Optimizer** : Adam
 - **Material parameters**
   - **Young's Modulus (E)** : 15000 kN/m² to compare with FEM from Plaxis2d
