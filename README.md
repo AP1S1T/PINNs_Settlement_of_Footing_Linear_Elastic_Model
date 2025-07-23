@@ -18,7 +18,7 @@ This repository contains a Physics-Informed Neural Networks (PINNs) implementati
   - **Poisson's Ratio (ν)** : 0.3
   - **Unit Weight (γ)** : 18 kN/m³ (for example) to compare with FEM from Plaxis2d
 - **Boundary Conditions**: Fixed displacements on the bottom, left, and right sides.
-  ![Dimension](Diagram.PNG)
+  ![Dimension](Dimension.png)
   ![Data sampling](Data-sampling.png)
 
 ## Results
