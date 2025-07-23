@@ -26,7 +26,7 @@ This repository contains a Physics-Informed Neural Networks (PINNs) implementati
 -  **Magnitude of displacement**
   ![Magnitude of displacement](magnitude_contour_heatmap.png)
 -  **All results**
-  ![All results](results_plot.png)
+  ![All results](results_plots.png)
 
 ## Reference
 -  Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations. Journal of Computational Physics, 378, 686–707.
