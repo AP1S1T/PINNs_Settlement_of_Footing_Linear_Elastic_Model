@@ -38,7 +38,10 @@ Assuming no body force, the equations simplify to:
 
 ## Results
 -  **All results**
-  ![All results](results_plots.png)
+  ![FEM results](FEM_results.png)
+  ![PINNs results](PINNs_results.png)
+  ![Relative error](Relative_error.png)
+
 
 ## Reference
 -  Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations. Journal of Computational Physics, 378, 686–707.
