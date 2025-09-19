@@ -45,6 +45,7 @@ Assuming no body force, the equations simplify to:
 
 ## Reference
 -  Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations. Journal of Computational Physics, 378, 686–707.
+-  Chen, X.-X., Zhang, P., & Yin, Z.-Y. (2025). A comprehensive investigation of physics-informed learning in forward and inverse analysis of elastic and elastoplastic footing. Computers and Geotechnics, 181, 107110. https://doi.org/10.1016/j.compgeo.2025.107110
 
 ## 👨‍💻 Author
 -  **Apisit Robjanghvad** : M.eng (Geotechnical engineering student), Department of Civil Engineering **King Mongkut's University of Technology Thonburi (KMUTT)**
