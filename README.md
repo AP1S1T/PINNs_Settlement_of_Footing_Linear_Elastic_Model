@@ -38,8 +38,7 @@ Assuming no body force, the equations simplify to:
 ## Results
 -  **All results**
   ![FEM results](FEM_results.png)
-  ![PINNs results](PINNs_results.png)
-  ![Relative error](Relative_error.png)
+  ![PINNs results](PINNs_Results.png)
 
 
 ## Reference
